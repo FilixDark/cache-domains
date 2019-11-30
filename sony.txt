@@ -12,3 +12,4 @@ aaa.theia.dl.playstation.net
 aaa.tmdb.np.dl.playstation.net
 aaa.gs-sec.ww.np.dl.playstation.net
 *.ps4.update.sonycoment.loris-e.llnwd.net
+*.deploy.static.akamaitechnologies.com
