@@ -14,4 +14,4 @@ aaa.gs-sec.ww.np.dl.playstation.net
 *.ps4.update.sonycoment.loris-e.llnwd.net
 aaa.deploy.static.akamaitechnologies.com
 aaa.ps4-system.sec.np.dl.playstation.net
-aaa.duk01.ps4.update.playstation.net
+*.ps4.update.playstation.net
