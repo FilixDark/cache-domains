@@ -15,5 +15,5 @@ aaa.gs-sec.ww.np.dl.playstation.net
 aaa.deploy.static.akamaitechnologies.com
 aaa.deploy.akamaitechnologies.com
 aaa.ps4-system.sec.np.dl.playstation.net
-duk1.ps4.update.playstation.net
+duk01.ps4.update.playstation.net
 *.llnw.net
